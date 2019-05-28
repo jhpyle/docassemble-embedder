@@ -3,7 +3,7 @@
    Plugin Name: Docassemble interview embedder
    Plugin URI: https://docassemble.org
    Description: This plugin allows you to insert a docassemble interview into a Wordpress site.
-   Version: 0.0.0
+   Version: 0.0.1
    Author: Jonathan Pyle
    Author URI: https://github.com/jhpyle
    License: MIT
